@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/7le7Ou' target='_blank'><img src='https://lh3.googleusercontent.com/-uM8nVJC9lqs/V_3ao2ffrbI/AAAAAAAAAGY/kLxtiJJYePEnD3PFUwuZ51rM7oufr6ibgCJoC/w716-h323-rw/PrimaveraPromotion_HomeBanner-1-1018x460.gif' width='500px'/><br/>13 Dịch Vụ Sơn Nhà Giá Rẻ</a>. LH O9O7588586. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/7le7Ou' target='_blank'><img src='https://lh3.googleusercontent.com/-uM8nVJC9lqs/V_3ao2ffrbI/AAAAAAAAAGY/kLxtiJJYePEnD3PFUwuZ51rM7oufr6ibgCJoC/w716-h323-rw/PrimaveraPromotion_HomeBanner-1-1018x460.gif' width='500px'/><br/>Dịch Vụ Sơn Nhà Giá Rẻ</a>. LH O9O7588586. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
