@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Bạn muốn copy : <a href='https://www.tpny.vn/dich-vu-sua-chua-nha-o-tai-tphcm.html'>https://www.tpny.vn/dich-vu-sua-chua-nha-o-tai-tphcm.html"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>Bạn muốn copy phải vào tpny.vn mới có thể copy được : <a href='https://www.tpny.vn'>https://www.tpny.vn"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
