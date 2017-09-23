@@ -3,7 +3,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Chúc Mừng Bạn Đã Copy Bài Viết Chuẩn Seo https://chongthamgiare.com/: <a href='https://www.tpny.vn'>https://www.tpny.vn"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>Chúc Mừng Bạn Đã Copy Bài Viết Chuẩn Seo https://chongthamgiare.com/: <a href='https://chongthamgiare.com/'>https://chongthamgiare.com/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
