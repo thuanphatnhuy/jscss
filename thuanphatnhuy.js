@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Bạn muốn copy phải vào thuanphatnhuy.com mới có thể copy được : <a href='https://thuanphatnhuy.com/'>https://thuanphatnhuy.com/"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>Trang web đã có bản quyền thuanphatnhuy.com mới có thể copy được : <a href='https://thuanphatnhuy.com/'>https://thuanphatnhuy.com/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
