@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://bit.ly/2dBUUWo';
+	var url_popup = 'https://chongthamgiare.com/dich-vu-chong-tham-o-tai-tphcm/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
